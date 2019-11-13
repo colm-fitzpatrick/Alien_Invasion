@@ -25,6 +25,10 @@ Space Invader replica game implemented in Python using object oriented programmi
 * All-time high score displayed in top middle of screen.
 * Current score and level number displayed in top right of screen.
 
+
+![ScreenShot](alien_invasion/images/Screenshot.png)
+
+
 # Copyright warning
 * This project was developed for learning purposes only.
 * The images and sound effects are not mine and may need attribution.
