@@ -1,4 +1,4 @@
-# Alien_Invasion
+# Alien Invasion
 Space Invader replica game implemented in Python using object oriented programming.
 
 # Spaceship can
